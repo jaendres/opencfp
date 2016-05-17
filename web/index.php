@@ -1,6 +1,6 @@
 <?php
-echo __DIR__.'/../vendor/autoload.php';exit;
-require_once __DIR__.'/../vendor/autoload.php';
+
+require_once 'D:\home\site\wwwroot\web\vendor\autoload.php';
 
 use OpenCFP\Application;
 use OpenCFP\Environment;
